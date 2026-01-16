@@ -4,8 +4,7 @@ numpy
 matplotlib
 seaborn
 joblib
-scikit-learn
-catboost
-adaboost
-
-
+scikit-learn>=1.2
+catboost>=1.2
+xgboost>=1.7
+lightgbm>=3.3
