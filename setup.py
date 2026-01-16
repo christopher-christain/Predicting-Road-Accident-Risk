@@ -26,5 +26,5 @@ setup(
     long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
-    python_requires=">=3.8"
+    python_requires=">=3.9"
 )
